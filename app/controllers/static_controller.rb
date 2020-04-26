@@ -1,5 +1,5 @@
 class StaticController < ApplicationController
   def home
-    render ''
+    render 'default'
   end
 end
